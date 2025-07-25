@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import myPhoto from "../assets/aniket.jpg"; // your photo here
+import myPhoto from "../assets/Portfolio2.jpeg"; // your photo here
 
 const Home = () => {
   return (
